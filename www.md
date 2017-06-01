@@ -15,7 +15,7 @@
 
 轻量级的多协议CLI下载工具，支持HTTP/HTTPS/FTP/SFTP/BitTorrent/Metalink，可以通过JSON-RPC和XML-RPC接口进行控制。
 
-* GPL 2.0许可证[https://www.gnu.org/licenses/old-licenses/gpl-2.0.html](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+* GPLv2许可证 [https://www.gnu.org/licenses/old-licenses/gpl-2.0.html](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * 项目主页 [https://aria2.github.io/](https://aria2.github.io/)
 
 ### wkhtmltopdf & wkhtmltoimg
