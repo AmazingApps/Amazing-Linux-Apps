@@ -1,6 +1,6 @@
 # 文件编辑与管理
 
-## 编辑
+## 文件编辑器
 
 ### emacs
 
@@ -16,7 +16,7 @@
 * ViM许可证 [http://vimdoc.sourceforge.net/htmldoc/uganda.html#license](http://vimdoc.sourceforge.net/htmldoc/uganda.html#license)
 * 项目主页 [http://www.vim.org/](http://www.vim.org/)
 
-## 管理
+## 文件管理
 
 ### mc
 
