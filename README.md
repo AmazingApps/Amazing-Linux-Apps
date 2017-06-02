@@ -8,4 +8,6 @@
 4. 拥有稳定维护者，除非软件已达到设计目的且无明显BUG
 5. 如果是图形界面软件则应具备相同功能的CLI
 
+[组织详情>>>>](https://www.gitbook.com/read/book/amazing-apps/organization-wiki)
+
 [返回首页](http://amazingapps.org/)
