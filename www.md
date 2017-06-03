@@ -15,6 +15,7 @@
 
 使用Perl语言编写的SmartQQ客户端框架，支持HTTP协议的API接口，支持将QQ转发为IRC。
 
+* 自定义许可 [https://github.com/sjdy521/Mojo-Webqq](https://github.com/sjdy521/Mojo-Webqq)
 * 项目主页 [https://github.com/sjdy521/Mojo-Webqq](https://github.com/sjdy521/Mojo-Webqq)
 
 ## 下载工具
@@ -25,6 +26,13 @@
 
 * GPLv2许可证 [https://www.gnu.org/licenses/old-licenses/gpl-2.0.html](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * 项目主页 [https://aria2.github.io/](https://aria2.github.io/)
+
+### BaiduPCS
+
+C/C++写的CLI百度网盘工具，支持断点续传，多线程分片上/下传，支持AES-CBC-X加密。
+
+* 许可未知
+* 项目主页[https://github.com/GangZhuo/BaiduPCS](https://github.com/GangZhuo/BaiduPCS)
 
 ### wkhtmltopdf & wkhtmltoimg
 
