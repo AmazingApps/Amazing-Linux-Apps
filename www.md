@@ -1,6 +1,6 @@
 # 万维网
 
-## Browser
+## 游览器
 
 ### w3m
 
@@ -9,7 +9,15 @@
 * MIT许可证 [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
 * 项目主页 [http://w3m.sourceforge.net/](http://w3m.sourceforge.net/)
 
-## Download
+## 即时通讯
+
+### Mojo-Webqq
+
+使用Perl语言编写的SmartQQ客户端框架，支持HTTP协议的API接口，支持将QQ转发为IRC。
+
+* 项目主页 [https://github.com/sjdy521/Mojo-Webqq](https://github.com/sjdy521/Mojo-Webqq)
+
+## 下载工具
 
 ### aria2
 
