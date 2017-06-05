@@ -31,3 +31,12 @@ vi键位的console文件管理器，拥有强大的扩展性，支持多种文�
 
 * GPLv3许可证 [https://www.gnu.org/licenses/gpl-3.0.en.html](https://www.gnu.org/licenses/gpl-3.0.en.html)
 * 项目主页 [http://ranger.nongnu.org/](http://ranger.nongnu.org/)
+
+## 文件备份
+
+### rdiff-backup
+
+使用Python编写的用于进行本地/远程增量备份的软件，它集合了镜像和增量备份的显著特点。
+
+* 未知许可证
+* 项目主页[http://www.nongnu.org/rdiff-backup/index.html](http://www.nongnu.org/rdiff-backup/index.html)
